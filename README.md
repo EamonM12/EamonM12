@@ -1,8 +1,8 @@
 # Hi, I'm Eamon McGrath 👋
 
-## AI/ML Engineer & Technical Co-Founder
+## AI/ML Engineer 
 
-I'm a passionate engineer specializing in AI/ML and backend systems, currently working as an AI/ML Engineer at Wowcher in London. I love building scalable solutions that solve real-world problems, from LLM-powered automation systems to fintech applications.
+I'm a passionate engineer specializing in AI/ML and backend systems, currently working as an AI/ML Engineer in London. I love building scalable solutions that solve real-world problems, from LLM-powered automation systems to fintech applications.
 
 ### 🔧 Tech Stack
 - **Languages:** Python, Golang, SQL, Bash
