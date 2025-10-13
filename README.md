@@ -8,7 +8,7 @@ I'm a passionate engineer specializing in AI/ML and backend systems, currently w
 
 ## 🚀 Featured Projects
 
-### 🛢️ Oil Forecasting: AI-Powered Price Prediction System
+### [🛢️ Oil Forecasting: AI-Powered Price Prediction System](https://github.com/EamonM12/oil-gpt) 
 
 An end-to-end ML system that predicts oil prices using dual-model architecture combining NLP sentiment analysis with LSTM time-series forecasting.
 
