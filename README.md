@@ -38,7 +38,7 @@ The system analyzes geopolitical events, economic indicators, and market disrupt
 
 Splitzy is a comprehensive bill-splitting application I co-founded and built from the ground up. It allows users to split costs seamlessly with friends, whether it's dinner, group trips, or ongoing shared expenses.
 
-**Tech Stack:** React • Next.js • Node.js • PostgreSQL • Stripe • AWS • Tailwind CSS
+**Tech Stack:** React Native • Golang • gRPC • PostgreSQL • OpenBanking • AWS • Kubernetes
 
 **Key Features:**
 - **Multiple Split Types:** Total cost splits, per-person amounts, pay-what-you-want, and ongoing tabs
